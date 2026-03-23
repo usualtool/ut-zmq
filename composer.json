@@ -1,0 +1,17 @@
+{
+    "name":             "usualtool/ut-zmq",
+    "description":      "UT framework extension:Zmq.",
+    "keywords":         ["ut-zmq", "usualtool", "UT Framework"],
+    "homepage":         "http://frame.usualtool.com",
+    "license": "Apache-2.0",
+    "authors": [{
+        "name":         "Huang Hui",
+        "email":        "292951110@qq.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "usualtool\\Zmq\\": "src"
+        }
+    }
+}
