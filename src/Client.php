@@ -1,5 +1,5 @@
 <?php
-namesapce usualtool\Zmq;
+namespace usualtool\Zmq;
 class Client{
     private $socket;
     private $mode;
